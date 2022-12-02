@@ -1,8 +1,7 @@
 # Active Keyword Selection for Tracking Evolving Topics on Twitter
 
 [![arXiv](https://img.shields.io/badge/arXiv-2209.11135-b31b1b)](https://arxiv.org/abs/2209.11135)
-[![MIT 
-License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 Source code for our paper `Active Keyword Selection for Tracking Evolving Topics on Twitter`, including our method `KeySelect`.
 
