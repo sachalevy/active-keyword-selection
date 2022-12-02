@@ -38,6 +38,16 @@ python3 src/main.py
 
 Run the Jupyter Notebook `src/experiments/Figure.ipynb` to reproduce the figures presented in the paper.
 
+## Cite
+
+```bibtex
+@article{levy2022active,
+  title={Active Keyword Selection to Track Evolving Topics on Twitter},
+  author={L{\'e}vy, Sacha and Poursafaei, Farimah and Pelrine, Kellin and Rabbany, Reihaneh},
+  journal={arXiv preprint arXiv:2209.11135},
+  year={2022}
+}
+```
 
 ## Maintainers
 
